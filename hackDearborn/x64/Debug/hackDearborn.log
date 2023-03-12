@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Souad\source\repos\hackDearborn\hackDearborn\main.cpp(10,7): warning C4101: 'agerangech': unreferenced local variable
+C:\Users\Souad\source\repos\hackDearborn\hackDearborn\main.cpp(11,6): warning C4101: 'size': unreferenced local variable
+  hackDearborn.vcxproj -> C:\Users\Souad\source\repos\hackDearborn\x64\Debug\hackDearborn.exe
